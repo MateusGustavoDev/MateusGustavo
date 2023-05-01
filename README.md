@@ -1,4 +1,4 @@
-## Opa me chamo Mateus, e sou desenvolvedor Front End!
+## Olá, meu nome é Mateus e eu sou um desenvolvedor Front End! 
 <div align="center">
   <a href="https://github.com/MateusGustavo22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
