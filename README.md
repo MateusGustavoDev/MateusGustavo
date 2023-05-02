@@ -1,6 +1,6 @@
 ## Olá, meu nome é Mateus e eu sou um desenvolvedor Front End! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
 
 ##
 
