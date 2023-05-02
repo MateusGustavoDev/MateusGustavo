@@ -2,7 +2,7 @@
 
 
 <div>
-  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22_icons=true&theme=github_dark&count_private=true">
+  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&_icons=true&theme=github_dark&count_private=true">
   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=github_dark">
 </div>
                           
