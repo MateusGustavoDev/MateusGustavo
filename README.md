@@ -1,9 +1,8 @@
 ## Olá, eu sou o Mateus Gustavo!
 
-<div style="height="200">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGustavo22&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
                           
 <div style="display: inline_block"><br>
   <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
