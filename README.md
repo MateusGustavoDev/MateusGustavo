@@ -1,8 +1,10 @@
 ## Olá, meu nome é Mateus e eu sou um desenvolvedor Front End! 
 
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGustavo22&theme=github_dark)](https://github.com/MateusGustavo22/github-readme-stats)
+</div>
 ##
 
 <div>
