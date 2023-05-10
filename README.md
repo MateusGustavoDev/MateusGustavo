@@ -2,7 +2,6 @@
 
 <div>
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=prussian&count_private=true">  
-    
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=prussian">
 </div>
                           
