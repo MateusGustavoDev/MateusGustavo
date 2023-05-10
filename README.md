@@ -1,7 +1,7 @@
 ## Olá, eu sou o Mateus Gustavo!
 
 <div>
-    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=github_dark_dimmed&count_private=true">
+    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=github_dark&count_private=true">
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=radical
 </div>
                           
