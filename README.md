@@ -1,5 +1,6 @@
 ## Olá, eu sou o Mateus Gustavo!
-Desenvolvedor FrontEnd 👨🏻‍💻
+Desenvolvedor FrontEnd 👨🏻‍💻 <br>
+Evoluindo a cada dia 🚀
 
 <div>
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=prussian&count_private=true">  
