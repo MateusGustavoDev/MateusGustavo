@@ -1,7 +1,7 @@
 ## Olá, eu sou o Mateus Gustavo!
 👨🏻‍💻 Desenvolvedor FrontEnd <br>
-🚀 Evoluindo a cada dia 
-
+🚀 Evoluindo a cada dia <br>
+😎 Skills: Html | Css | Javascript | React | Next | TailwindCss | Styled-components | Git
 <div>
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=algolia&count_private=true">  
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=algolia">
