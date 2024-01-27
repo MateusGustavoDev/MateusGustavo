@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil no GitHub! 👋
+## Bem-vindo ao meu perfil no GitHub! 👋
 - Desenvolvedor Front-end <br>
 - Html | Css | Javascript | Typescript | React | Next | TailwindCss | Git <br>
 <div>
