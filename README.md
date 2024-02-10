@@ -1,6 +1,7 @@
 ## Bem-vindo ao meu perfil no GitHub! 👋
-- Desenvolvedor Front-end <br>
-- Html | Css | Javascript | Typescript | React | Next | TailwindCss | Git <br>
+
+👨🏼‍💻 Desenvolvedor Front-end <br>
+🔧 Html | css | javascript | typescript | react | next | styled-components | tailwind-css | git <br>
 <div>
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=algolia&count_private=true">  
     <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=algolia">
