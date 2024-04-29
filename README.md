@@ -3,8 +3,8 @@
 👨🏼‍💻 Desenvolvedor Front-end <br>
 🔧 html | css | javascript | typescript | react | next | styled-components | tailwind-css | git <br>
 <div>
-    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavo22&show_icons=true&theme=algolia&count_private=true">  
-    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavo22&layout=compact&theme=algolia">
+    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MateusGustavoDev&show_icons=true&theme=algolia&count_private=true">  
+    <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MateusGustavoDev&layout=compact&theme=algolia">
 </div>
                           
 
